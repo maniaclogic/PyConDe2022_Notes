@@ -30,4 +30,14 @@ Failing test - Passing Test - REFACTOR
 - abbreviations are mentally expensive
 - namings communicate intentions
 - words can be misleading and even small details can be confusing
+- add docstrings to functions
 
+## Aspect-oriented programming
+### Diving deep into decorators with Python
+
+- cross cutting concerns z.B.: logging, caching, 
+- static method is a function that takes a function and returns a function == Higher order fucntions
+- staticmethod(meth()) becomes @staticmethod
+- iteration is better than recursion. Recursion impacted by decorators
+- class decorators vs metaclasses
+- 
